@@ -33,7 +33,7 @@ Installation
 
     ...and so on and so forth.
 
-    5. Edit mvm_master.cfg, changing the hostname and password to your liking.
+5. Edit mvm_master.cfg, changing the hostname and password to your liking.
 
 Usage
 -----
