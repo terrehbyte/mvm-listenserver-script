@@ -51,3 +51,5 @@ Usage
 4.  Upon map load, the console should contain a list of commands and the difficulties that correspond with them. Enter the corresponding command to change the difficulty.
 
     For example, if you are on the map "mvm_decoy," you can type, "Decoy1," without the quotation marks to load the first difficulty, "Doe's Drill." Those commands can be run at any time and can be used to reload the game without actually reloading the map.
+    
+5.  If the server was shut down but the Team Fortress 2 client was not, then run mvm_init.cfg to reload the map selection scripts that launch a server using the 'map MAPNAME' command.
