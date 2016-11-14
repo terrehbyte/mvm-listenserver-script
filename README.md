@@ -15,21 +15,21 @@ Installation
 
 1.  Navigate to your Team Fortress 2 installation location. That would be:
 
-    /Steam/steamapps/common/Team Fortress 2/
+    `/Steam/steamapps/common/Team Fortress 2/`
 
 2.  Next, make a folder in your custom content folder.
 
-    /Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/
+    `/Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/`
 
 3.  Create a "cfg" folder in the newly created folder.
 
-    /Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/
+    `/Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/`
 
 4.  Download the configs in this repo and place them in your newly created "cfg" folder.
 
-    /Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/mvm_master.cfg
+    `/Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/mvm_master.cfg`
 
-    /Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/mvm_decoy.cfg
+    `/Steam/steamapps/common/Team Fortress 2/tf/custom/<NEW_FOLDER_NAME>/cfg/mvm_decoy.cfg`
 
     ...and so on and so forth.
 
@@ -42,7 +42,7 @@ Usage
 
 2.  Run the command
 
-	exec mvm_master.cfg
+	`exec mvm_master.cfg`
 	
     This preps your client for hosting an MvM listen server, setting needed variables.
 
